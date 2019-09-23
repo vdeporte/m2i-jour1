@@ -3,5 +3,3 @@ Hello world!
 1 nouvelle ligne
 
 2ème ligne
-
-Modif pour commit C1
